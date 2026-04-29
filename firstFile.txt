@@ -1,7 +1,7 @@
 Modification of line 1 from step 7
 Modification of line 2 from step 7
-3
-4
+Modification of line 3 from step 8
+Modification of line 4 from step 8
 5
 6
 7
